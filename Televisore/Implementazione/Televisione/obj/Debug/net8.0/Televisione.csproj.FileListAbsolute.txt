@@ -1,0 +1,14 @@
+C:\Users\lucta\OneDrive\Desktop\Luca\C#\Televisione\Televisione\obj\Debug\net8.0\Televisione.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucta\OneDrive\Desktop\Luca\C#\Televisione\Televisione\obj\Debug\net8.0\Televisione.AssemblyInfoInputs.cache
+C:\Users\lucta\OneDrive\Desktop\Luca\C#\Televisione\Televisione\obj\Debug\net8.0\Televisione.AssemblyInfo.cs
+C:\Users\lucta\OneDrive\Desktop\Luca\C#\Televisione\Televisione\obj\Debug\net8.0\Televisione.csproj.CoreCompileInputs.cache
+C:\Users\lucta\OneDrive\Desktop\Luca\C#\Televisione\Televisione\bin\Debug\net8.0\Televisione.exe
+C:\Users\lucta\OneDrive\Desktop\Luca\C#\Televisione\Televisione\bin\Debug\net8.0\Televisione.deps.json
+C:\Users\lucta\OneDrive\Desktop\Luca\C#\Televisione\Televisione\bin\Debug\net8.0\Televisione.runtimeconfig.json
+C:\Users\lucta\OneDrive\Desktop\Luca\C#\Televisione\Televisione\bin\Debug\net8.0\Televisione.dll
+C:\Users\lucta\OneDrive\Desktop\Luca\C#\Televisione\Televisione\bin\Debug\net8.0\Televisione.pdb
+C:\Users\lucta\OneDrive\Desktop\Luca\C#\Televisione\Televisione\obj\Debug\net8.0\Televisione.dll
+C:\Users\lucta\OneDrive\Desktop\Luca\C#\Televisione\Televisione\obj\Debug\net8.0\refint\Televisione.dll
+C:\Users\lucta\OneDrive\Desktop\Luca\C#\Televisione\Televisione\obj\Debug\net8.0\Televisione.pdb
+C:\Users\lucta\OneDrive\Desktop\Luca\C#\Televisione\Televisione\obj\Debug\net8.0\Televisione.genruntimeconfig.cache
+C:\Users\lucta\OneDrive\Desktop\Luca\C#\Televisione\Televisione\obj\Debug\net8.0\ref\Televisione.dll

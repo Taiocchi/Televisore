@@ -1,0 +1,11 @@
+class Televisore {
+	int consumo;
+	bool stato;
+	int stato_canale;
+	int stato_volume;
+
+	void accendi() {...}
+	void spegni() {...}
+	void cambia_canale() {...}
+	void cambia_volume() {...}
+}
