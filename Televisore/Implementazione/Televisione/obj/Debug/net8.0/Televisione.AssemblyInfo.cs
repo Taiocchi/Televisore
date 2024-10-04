@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Televisione")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bd13b0c5d9208b657eb7fe94ba7a2040f96ff879")]
 [assembly: System.Reflection.AssemblyProductAttribute("Televisione")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Televisione")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
