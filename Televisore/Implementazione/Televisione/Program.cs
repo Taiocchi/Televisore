@@ -15,25 +15,15 @@ class main
         s2.accendi();
         s2.cambia_canale(10);
         s2.cambia_volume(10);
-
-        /*
-        Console.WriteLine("Stato S1: " + s1.stato);
-        Console.WriteLine("Canale S1: " + s1.stato_canale);
-        Console.WriteLine("Volume S1: " + s1.stato_volume);
-
-        Console.WriteLine("Stato S2: " + s2.stato);
-        Console.WriteLine("Canale S2: " + s2.stato_canale);
-        Console.WriteLine("Volume S2: " + s2.stato_volume);
-        */
     }
 }
 
-public class Televisore
+class Televisore
 {
-    public int consumo;
-    public bool stato;
-    public int stato_canale;
-    public int stato_volume;
+    private int consumo;
+    private bool stato;
+    private int stato_canale;
+    private int stato_volume;
 
     public void accendi()
     {
